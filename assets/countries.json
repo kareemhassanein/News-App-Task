@@ -1,0 +1,74 @@
+[
+  {
+    "code": "EG",
+    "emoji": "🇪🇬",
+    "unicode": "U+1F1EA U+1F1EC",
+    "name": "مصر",
+    "title": "flag for Egypt",
+    "dialCode": "+20",
+    "lang": "ar"
+  },
+  {
+    "code": "US",
+    "emoji": "🇺🇸",
+    "unicode": "U+1F1FA U+1F1F8",
+    "name": "United States",
+    "title": "flag for United States",
+    "dialCode": "+1",
+    "lang": "en"
+  },
+  {
+    "code": "AE",
+    "emoji": "🇦🇪",
+    "unicode": "U+1F1E6 U+1F1EA",
+    "name": "الامارات العربية المتحدة",
+    "title": "flag for United Arab Emirates",
+    "dialCode": "+971",
+    "lang": "ar"
+  },
+  {
+    "code": "SA",
+    "emoji": "🇸🇦",
+    "unicode": "U+1F1F8 U+1F1E6",
+    "name": "السعودية",
+    "title": "flag for Saudi Arabia",
+    "dialCode": "+966",
+    "lang": "ar"
+  },
+  {
+    "code": "AU",
+    "emoji": "🇦🇺",
+    "unicode": "U+1F1E6 U+1F1FA",
+    "name": "Australia",
+    "title": "flag for Australia",
+    "dialCode": "+61",
+    "lang": "en"
+  },
+  {
+    "code": "BR",
+    "emoji": "🇧🇷",
+    "unicode": "U+1F1E7 U+1F1F7",
+    "name": "Brazil",
+    "title": "flag for Brazil",
+    "dialCode": "+55",
+    "lang": "en"
+  },
+  {
+    "code": "CA",
+    "emoji": "🇨🇦",
+    "unicode": "U+1F1E8 U+1F1E6",
+    "name": "Canada",
+    "title": "flag for Canada",
+    "dialCode": "+1",
+    "lang": "en"
+  },
+  {
+    "code": "DE",
+    "emoji": "🇩🇪",
+    "unicode": "U+1F1E9 U+1F1EA",
+    "name": "Germany",
+    "title": "flag for Germany",
+    "dialCode": "+49",
+    "lang": "en"
+  }
+]
